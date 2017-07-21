@@ -1,0 +1,95 @@
+/* 
+    Created on : 12 nov. 2015, 23:09:19
+    Author     : albedo0
+*/
+
+.bootmodal-admin {
+    margin-right: 20px ;
+    
+    header {
+        border: 2px solid #fff;
+        position: relative;
+        height: 80px;
+        margin-top: 20px ;
+        padding: 10px 20px;
+        line-height:50px;
+        border-radius: 5px;
+        background-color: #593f7f;
+        
+        h1 {
+            font-size: 40px;
+            margin:0px;
+            padding:0px;
+            color: #fff ;
+        }
+        h2 {
+            margin:0px 0px 0px 50px;
+            padding:0px;
+            color:#cdbfe3;
+            font-size: 13px;
+        }
+        #logo {
+            position: absolute;
+            right: 30px;
+            top: 10px; 
+            display: block;
+            width: 100px;
+            height: 100px;
+            background: url('../img/logo.png') no-repeat ;
+            box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7); 
+            border-radius: 50px;
+        }
+    }
+    
+    #tabs{
+        border-bottom: 6px solid #593f7f;
+        
+        li{
+            margin:0px;
+            padding:0px;
+            display:inline-block;
+        }
+        a {
+            display:block;
+            padding:10px;
+            background-color: #cdbfe3;
+            border:1px solid #593f7f ;
+            border-bottom-width: 0;
+            color:#593f7f;
+            text-decoration: none;
+            min-width: 150px;
+            text-align: center;
+        }
+        a.tab_active {
+            background-color: #593f7f;
+            color:#ffffff;
+        }
+    }
+    
+    .step{
+        font-size: 30px;
+        line-height:60px;
+        margin-top: 30px;
+        
+        span{
+            display:block;
+            background-color: #593f7f;
+            float:left;
+            font-size: 30px;
+            color:#fff;
+            width:60px;
+            height:60px;
+            border-radius:30px;
+            text-align: center;
+            line-height:60px;
+            margin-right:20px;
+        }
+    }
+}
+
+.bootmodal-admin-exemples {
+    font-family: "Lucida Console", Monaco, monospace;
+    border: 1px solid #aaa;
+    background-color: #ddd;
+    padding:10px;
+}

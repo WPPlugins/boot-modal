@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Boot-Modal\n"
+"POT-Creation-Date: 2017-06-08 20:22+0100\n"
+"PO-Revision-Date: 2017-06-08 20:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: boot_modal.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: boot_modal.php:164 boot_modal.php:172
+msgid "Close"
+msgstr ""
+
+#: boot_modal.php:213
+msgid "Load a page in a Boostrap's modal"
+msgstr ""
+
+#: boot_modal.php:218
+msgid "How to use this plugin ?"
+msgstr ""
+
+#: boot_modal.php:219
+msgid "Plugin settings"
+msgstr ""
+
+#: boot_modal.php:220
+msgid "Shortcode options"
+msgstr ""
+
+#: boot_modal.php:221
+msgid "To donate"
+msgstr ""
+
+#: boot_modal.php:227
+msgid "Set up Bootstrap"
+msgstr ""
+
+#: boot_modal.php:229
+msgid ""
+"If your template does not use Boostrap, activate a light version within the "
+"parameters of the plugin."
+msgstr ""
+
+#: boot_modal.php:231
+msgid "Use a shortcode"
+msgstr ""
+
+#: boot_modal.php:233
+msgid ""
+"Insert the shortcode [bootmodal post=\"page\"] anywhere to place a link for "
+"opening the modal window or use the shortcode generator in the editor."
+msgstr ""
+
+#: boot_modal.php:234
+msgid ""
+"Post parameter is the final section of the permalink of the article you want "
+"to display in the modal window."
+msgstr ""
+
+#: boot_modal.php:237
+msgid "Indulge yourself"
+msgstr ""
+
+#: boot_modal.php:238
+msgid "Normally it works ..."
+msgstr ""
+
+#: boot_modal.php:239
+msgid ""
+"You are happy now ! So smile ! And look at the options available and make me "
+"a donation if I changed your life ! Or not..."
+msgstr ""
+
+#: boot_modal.php:256
+msgid "required"
+msgstr ""
+
+#: boot_modal.php:258
+msgid ""
+"This parameter determines which page or which item should be displayed in "
+"the modal window."
+msgstr ""
+
+#: boot_modal.php:260
+msgid "This corresponds to the last part of the permalink articles."
+msgstr ""
+
+#: boot_modal.php:267
+msgid ""
+"Choose whether to activate the animation when displaying the modal window."
+msgstr ""
+
+#: boot_modal.php:271 boot_modal.php:278 boot_modal.php:291 boot_modal.php:298
+#: boot_modal.php:311
+msgid "Possible values"
+msgstr ""
+
+#: boot_modal.php:271
+msgid "yes or no"
+msgstr ""
+
+#: boot_modal.php:274
+msgid "Customizes the link/button CSS class."
+msgstr ""
+
+#: boot_modal.php:278 boot_modal.php:298
+msgid "All you want as long as it is a CSS class."
+msgstr ""
+
+#: boot_modal.php:281
+msgid ""
+"Choose the text for the link or the HTML button. If you don't choose your "
+"own text, the text will be the title of the post to open."
+msgstr ""
+
+#: boot_modal.php:287
+msgid "Choose whether to insert a link or an HTML button."
+msgstr ""
+
+#: boot_modal.php:291 tinymce-translations.php:18
+msgid "Link"
+msgstr ""
+
+#: boot_modal.php:291 tinymce-translations.php:17
+msgid "Button"
+msgstr ""
+
+#: boot_modal.php:294
+msgid "Customize the CSS class associated with the modal window close button."
+msgstr ""
+
+#: boot_modal.php:301
+msgid "Text to display in the close button of the modal window."
+msgstr ""
+
+#: boot_modal.php:307
+msgid "This parameter defines the size of the modal window."
+msgstr ""
+
+#: boot_modal.php:311
+msgid "Standard"
+msgstr ""
+
+#: boot_modal.php:311
+msgid "Leave empty"
+msgstr ""
+
+#: boot_modal.php:311
+msgid "Large"
+msgstr ""
+
+#: boot_modal.php:311
+msgid "Small"
+msgstr ""
+
+#: boot_modal.php:314
+msgid ""
+"This parameter make possible to send a parameter in the URL for the page "
+"being opened in the modal. This makes it possible to customize the content "
+"of the page. The parameter consists of a url_key (parameter name) and "
+"url_value (Warning : work only with link and not with button)."
+msgstr ""
+
+#: boot_modal.php:321
+msgid ""
+"If you want to encourage me to create other plugins or improve this one, you "
+"can donate something with Paypal ! If you have no money your are free to use "
+"this plugin and enjoy !"
+msgstr ""
+
+#: boot_modal.php:370
+msgid "yes"
+msgstr ""
+
+#: boot_modal.php:371
+msgid "no"
+msgstr ""
+
+#: boot_modal.php:379
+msgid "button"
+msgstr ""
+
+#: boot_modal.php:380
+msgid "link"
+msgstr ""
+
+#: boot_modal.php:386 tinymce-translations.php:28
+msgid "standard"
+msgstr ""
+
+#: boot_modal.php:387 tinymce-translations.php:29
+msgid "large"
+msgstr ""
+
+#: boot_modal.php:388 tinymce-translations.php:30
+msgid "small"
+msgstr ""
+
+#: boot_modal.php:407
+msgid "Bootstrap activation"
+msgstr ""
+
+#: boot_modal.php:409
+msgid "Activate Bootstrap"
+msgstr ""
+
+#: boot_modal.php:414
+msgid ""
+"Choose \"no\" if Bootstrap is already used by your theme or another plugin."
+msgstr ""
+
+#: boot_modal.php:417 tinymce-translations.php:14
+msgid "Link params"
+msgstr ""
+
+#: boot_modal.php:419 tinymce-translations.php:15
+msgid "Link type"
+msgstr ""
+
+#: boot_modal.php:425 tinymce-translations.php:19
+msgid "CSS class"
+msgstr ""
+
+#: boot_modal.php:430
+msgid "CSS class of the button to open the modal (default: btn btn-default).."
+msgstr ""
+
+#: boot_modal.php:433 tinymce-translations.php:23
+msgid "Modal window params"
+msgstr ""
+
+#: boot_modal.php:435 tinymce-translations.php:24
+msgid "Close button text"
+msgstr ""
+
+#: boot_modal.php:440
+msgid "Texte of the button inside the modal to close it."
+msgstr ""
+
+#: boot_modal.php:443 tinymce-translations.php:25
+msgid "Close button CSS class"
+msgstr ""
+
+#: boot_modal.php:448
+msgid ""
+"CSS class of the button inside the modal to close it (default: btn btn-"
+"default)."
+msgstr ""
+
+#: boot_modal.php:451 tinymce-translations.php:26
+msgid "Animation"
+msgstr ""
+
+#: boot_modal.php:456
+msgid "Choose \"no\" if you do not want to animate the modal."
+msgstr ""
+
+#: boot_modal.php:459 tinymce-translations.php:27
+msgid "Modal window size"
+msgstr ""
+
+#: boot_modal.php:465
+msgid "Editor params"
+msgstr ""
+
+#: boot_modal.php:467
+msgid "Button in editor"
+msgstr ""
+
+#: boot_modal.php:472
+msgid "Add a button in editor to add the shortcode"
+msgstr ""
+
+#: tinymce-translations.php:11
+msgid "Add a Boot-Modal shortcode"
+msgstr ""
+
+#: tinymce-translations.php:12
+msgid "Post permalink"
+msgstr ""
+
+#: tinymce-translations.php:16
+msgid "Link text"
+msgstr ""
+
+#: tinymce-translations.php:20
+msgid "Yes"
+msgstr ""
+
+#: tinymce-translations.php:21
+msgid "No"
+msgstr ""
+
+#: tinymce-translations.php:32
+msgid "Add URL params"
+msgstr ""
+
+#: tinymce-translations.php:33
+msgid "Key"
+msgstr ""
+
+#: tinymce-translations.php:34
+msgid "Value"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Boot-Modal"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/boot-modal/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A simple plugin to open any page in a Bootstrap modal window."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Julien Crego"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://dev.juliencrego.com/boot-modal/"
+msgstr ""
